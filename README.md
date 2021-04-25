@@ -7,7 +7,7 @@
 - [Sources](#sources)
 
 ### <a id="summary"></a>Summary
-Train a TensorFlow model on P.G. Wodehouse, produce some novels, then name them with NLP and make bad cover art like so: 
+Train a TensorFlow model on P.G. Wodehouse, produce [some novels](https://github.com/risatrix/NaNoGenMo2020/tree/main/novels), then name them with NLP and make [bad cover art](https://github.com/risatrix/NaNoGenMo2020/tree/main/covers) like so: 
 ![anything_make_way_eye_say_cover.png](attachment:anything_make_way_eye_say_cover.png)
 
 
